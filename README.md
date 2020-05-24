@@ -1,2 +1,2 @@
-# Marketing_Related
-This repo is used for saving all marketing data science blog codes
+This repo is used for saving all codes in my CSDN blog https://blog.csdn.net/oyww710
+
